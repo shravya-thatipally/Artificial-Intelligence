@@ -93,7 +93,7 @@ class minconflicts:
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        print ("Illegal use of Arguments : Expected format --> python puzzleSolver.py <#Algorithm> <N> <INPUT_FILE_PATH> <OUTPUT_FILE_PATH>")
+        print ("Illegal use of Arguments :")
     else:
         input = sys.argv[1]
         output = sys.argv[2]
